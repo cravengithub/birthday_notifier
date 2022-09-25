@@ -1,0 +1,25 @@
+{
+  "name": "birthday_notifier",
+  "version": "1.0.0",
+  "description": "It is simple birthday notifier for user which has variatives time and location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cravengithub/birthday_notifier.git"
+  },
+  "keywords": [
+    "birthday",
+    "notifier",
+    "api",
+    "localization"
+  ],
+  "author": "Hastari Utama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cravengithub/birthday_notifier/issues"
+  },
+  "homepage": "https://github.com/cravengithub/birthday_notifier#readme"
+}
