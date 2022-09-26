@@ -1,8 +1,9 @@
 {
-  "name": "birthday_notifier",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "It is simple birthday notifier for user which has variatives time and location.",
+  "description": "first implementation",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
@@ -11,15 +12,19 @@
     "url": "git+https://github.com/cravengithub/birthday_notifier.git"
   },
   "keywords": [
-    "birthday",
-    "notifier",
-    "api",
-    "localization"
+    "backend"
   ],
   "author": "Hastari Utama",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cravengithub/birthday_notifier/issues"
   },
-  "homepage": "https://github.com/cravengithub/birthday_notifier#readme"
+  "homepage": "https://github.com/cravengithub/birthday_notifier#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "node-schedule-tz": "^1.2.1-4"
+  }
 }

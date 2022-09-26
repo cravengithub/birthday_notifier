@@ -1,0 +1,12 @@
+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
+https://github.com/cravengithub/birthday_notifier.git
+
+
+user{
+    id:8923892329,
+    first_name: "Mark",
+    last_name:"Roger",
+    birth_date: new Date("1994-02-20"),
+    location: "New York, USA",
+    email:"mark.roger@mail.com"
+}
